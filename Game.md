@@ -1,4 +1,4 @@
-Exposition: The Quest Begins
+###Exposition: The Quest Begins
 An old master on his deathbed hires a group of adventurers to retrieve a legendary, ancient treasure from a faraway temple and restore it with his disciple within a month's time. The adventurers consist of a mathematician, scholar, engineer, artist, and scientist. After a week-long journey, the adventurers arrive at the temple's entrance.
 
 Challenge: Solve a puzzle to unlock the temple's doors.
@@ -8,7 +8,7 @@ Challenge: Solve a puzzle to unlock the temple's doors.
 - Artist: Correctly pieces together a broken mural and restores the image
 - Scientist: Applies a chemical solution to weaken lock mechanism
 
-Rising Action: Into the Temple
+###Rising Action: Into the Temple
 The adventurers explore the temple, learning its history, culture, and ancient religion. They eventually find a hidden room in the temple that is guarded by an ancient deity's spirit.
 
 Challenge: Using their newfound knowledge, answer the deity's riddles to gain access to the hidden chamber, where the ancient treasure lies.
@@ -22,7 +22,7 @@ Challenge: Using their newfound knowledge, answer the deity's riddles to gain ac
 -Future: What dawn will crown the sleepless throne?
   - Mathematician: Calculates the time that the next heir of the ancient temple's people will be born.
 
-Climax: The Ancient Treasure
+###Climax: The Ancient Treasure
 The adventurers obtain the treasure. However, the temple starts collapsing when they remove the treasure from its resting place. The adventurers escape just in time. However, the way back home is filled with monsters, attracted by the treasure and wanting it for themselves
 
 Challenge: Find a way to ward off the monsters while safely transporting the treasure back home.
@@ -32,7 +32,7 @@ Challenge: Find a way to ward off the monsters while safely transporting the tre
 - Artist: Fashions a bag to carry and hide the treasure in
 - Scientist: Analyzes the treasure's energy and masks its influence
 
-Falling Action: The Blocked Path
+###Falling Action: The Blocked Path
 On their way home, the adventurers find that their usual path has been blocked. They decide to go another route, where they face a fork in the road. One way is more treacherous but faster, while the other way is safer but takes longer. The adventurers only have 2 weeks to return the treasure.
 
 Challenge: Figure out which path home is the most convenient. There is a time pressure involved.
@@ -42,7 +42,7 @@ Challenge: Figure out which path home is the most convenient. There is a time pr
 - Artist: Designs mechanisms for faster/easier travel
 - Scientist: Analyzes environment to aid in survival or travel (e.g., rock stability, wind patterns, edible plants, distilling drinkable water)
 
-Resolution: Homecoming
+###Resolution: Homecoming
 The adventurers finally make it home and deliver the treasure to the old master's disciple. However, the disciple in question is an imposter! The real disciple is bound nearby, and time is running out to restore the treasure.
 
 Challenge: Defeat the imposter, save the real disciple, restore the treasure.
