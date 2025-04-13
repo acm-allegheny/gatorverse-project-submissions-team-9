@@ -49,7 +49,7 @@ To be considered for judging, each team must also:
 
 1. Submit their project on **Devpost**:  
    [https://into-the-gatorverse.devpost.com/?preview_token=3j%2FXcJ08TBT2wSWZx9gDKQuBs0Z6rrG2zlZ09c6POyU%3D](https://into-the-gatorverse.devpost.com/?preview_token=3j%2FXcJ08TBT2wSWZx9gDKQuBs0Z6rrG2zlZ09c6POyU%3D)
-2. Include a link to this GitHub repository in their Devpost submission.
+2. Include a link to this GitHub repository in their Devpost submission. [Our Submission](https://docs.google.com/presentation/d/1FJNX_bAEXTeHvIMFnAiUP-Iwus6Yn0DCJgH5d4kgVRg/edit?usp=sharing)
 
 **Both the GitHub repo and Devpost submission are required** by the deadline to be eligible for judging.
 
